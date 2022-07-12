@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @arjanssuri
+- 👀 I’m a student in high school
+- Started coding a month ago
