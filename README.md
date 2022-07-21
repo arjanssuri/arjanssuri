@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @arjanssuri
 - 👀 I’m a student in high school
-- I'm currently learning how to code Python3
+- I'm currently learning how to code machine learning 
