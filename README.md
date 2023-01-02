@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @arjanssuri
 - 👀 I’m a student in high school
-- I'm currently learning how to code machine learning 
+- I'm currently learning React Native
