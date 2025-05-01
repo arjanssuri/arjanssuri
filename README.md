@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=arjanssuri&theme=maroongold&border_radius=20&short_numbers=true" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=arjanssuri&theme=maroongold&border_radius=20&short_numbers=true">
   </a>
 </p>
 
