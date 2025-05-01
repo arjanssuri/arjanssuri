@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @arjanssuri
-- 👀 I’m a student in high school
-- I'm currently learning React Native
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arjanssuri)](https://git.io/streak-stats)
