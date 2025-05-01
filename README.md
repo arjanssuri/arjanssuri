@@ -19,16 +19,17 @@
 
 ### 💼 Roles (Current & Past)
 
-- **Newshore Partners** @ Private Equity Intern  
-- **Almondz** @ Equity Research Intern  
-- **Fidutam** @ Director of Operations  
-- **hScore** @ Jr. Quantitative Analyst & Intern  
-- **Onix** @ Strategic Solutions Intern  
-- **NXG Investment Management** @ Investment Analyst Intern  
-- **Enrichify** @ President & Founder  
-- **UT Southwestern Medical Center** @ Research Analyst  
-- **Texas Christian University** @ Research Associate  
-- **UT Dallas** @ Research Analyst  
+- Private Equity Intern @ **Newshore Partners**  
+- Equity Research Intern @ **Almondz**
+- Research Analyst @ **UT Southwestern Medical Center**
+- Research Associate @ **Texas Christian University**
+  
+- Prev. Research Analyst @ **UT Dallas** 
+- Prev. Director of Operations @ **Fidutam**
+- Prev. Strategic Solutions Intern @ **Onix**
+- Prev. President & Founder @ **Enrichify**
+- Prev. Investment Analyst Intern @ **NXG Investment Management**
+- Prev. Jr. Quantitative Analyst @ **hScore**
 
 ---
 
