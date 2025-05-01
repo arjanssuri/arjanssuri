@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/UTAustinBanner.jpg" alt="UT Austin Banner" width="100%" />
+  <img src="[https://i.imgur.com/UTAustinBanner.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Futaustin%2F14767404468&psig=AOvVaw0E1eE8NGA0ohL2DNM5-pT_&ust=1746153055819000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCn0JadgY0DFQAAAAAdAAAAABAP)" alt="UT Austin Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Arjan! 👋</h1>
