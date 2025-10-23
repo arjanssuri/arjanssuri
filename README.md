@@ -1,4 +1,4 @@
-<p align="center">
+`<p align="center">
   <img src="https://sites.utexas.edu/angs/files/2021/11/angs_header_banner.jpg" alt="UT Austin Banner" width="100%">
 </p>
 
@@ -18,15 +18,17 @@
 
 **DuckDB | Open Source Contributor**  
 *Oct. 2025 – Present*  
-[![DuckDB Logo](/assets/duckdb.svg)](https://github.com/duckdb/duckdb)
+<a href="https://github.com/duckdb/duckdb"><img src="/assets/duckdb.svg" alt="DuckDB Logo" width="80"/></a>
 
 **Research Analyst at University of Texas at Austin**  
 *Apr 2025 – Present*
 
 **Aerodynamics Engineer at Longhorn Racing (Formula SAE)**  
 *Sept. 2025 – Present*  
-![Longhorn Racing Car](/assets/lhr_aero_car.png)
-![Longhorn Racing Aero Shell](/assets/lhr_aero_shell.png)
+<p>
+  <img src="/assets/lhr_aero_car.png" alt="Longhorn Racing Car" width="120"/>
+  <img src="/assets/lhr_aero_shell.png" alt="Longhorn Racing Aero Shell" width="120"/>
+</p>
 
 **Member at Texas Blockchain**  
 *Sept. 2025 – Present*
@@ -44,8 +46,14 @@
 ## 2024
 
 **Research Associate at Texas Christian University**  
-[![RSV Research Closeup](/assets/rsv-closeup.png)](https://www.mdpi.com/2673-3986/6/2/16)
-[![Research Publication](/assets/research-publication.png)](https://www.mdpi.com/2673-3986/6/2/16)
+<p>
+  <a href="https://www.mdpi.com/2673-3986/6/2/16">
+    <img src="/assets/rsv-closeup.png" alt="RSV Research Closeup" width="120"/>
+  </a>
+  <a href="https://www.mdpi.com/2673-3986/6/2/16">
+    <img src="/assets/research-publication.png" alt="Research Publication" width="120"/>
+  </a>
+</p>
 
 **Private Equity Intern at Newshore Partners**
 
@@ -54,7 +62,7 @@
 **Strategic Solutions Intern at Onix**
 
 **Quantitative Analyst Intern at hScore**  
-![NXG Investment Management](/assets/nxg.png)
+<img src="/assets/nxg.png" alt="NXG Investment Management" width="120"/>
 
 ---
 
@@ -63,11 +71,17 @@
 **Research Analyst at UT Dallas**
 
 **Investment Analyst Intern at NXG Investment Management**  
-![NXG Investment Management](/assets/nxg.png)
+<img src="/assets/nxg.png" alt="NXG Investment Management" width="120"/>
 
 **President and Founder of Enrichify**  
-[![Enrichify Southlake Style Article](/assets/enrichify-article.PNG)](https://www.southlakestyle.com/community/people/dragons-start-financial-nonprofit/)
-[![Canvas Rebel Article](/assets/canvas-rebel-article-enrichify.png)](https://canvasrebel.com/meet-anson-omar-arjan-suri-and-ayan-bakshi/)
+<p>
+  <a href="https://www.southlakestyle.com/community/people/dragons-start-financial-nonprofit/">
+    <img src="/assets/enrichify-article.PNG" alt="Enrichify Southlake Style Article" width="120"/>
+  </a>
+  <a href="https://canvasrebel.com/meet-anson-omar-arjan-suri-and-ayan-bakshi/">
+    <img src="/assets/canvas-rebel-article-enrichify.png" alt="Canvas Rebel Article" width="120"/>
+  </a>
+</p>
 
 ---
 
@@ -80,12 +94,20 @@ B.Sc. in Computer Science & B.Sc. in Applied Math
 GPA 105.0/100 | Rank 27/721
 
 **Finance Club – President**  
-![Finance Club Event 1](/assets/finance-club-1.jpeg)
-![Finance Club Event 2](/assets/finance-club-2.jpeg)
+<p>
+  <img src="/assets/finance-club-1.jpeg" alt="Finance Club Event 1" width="120"/>
+  <img src="/assets/finance-club-2.jpeg" alt="Finance Club Event 2" width="120"/>
+</p>
 
 **DECA – VP of Finance Ops**  
-![DECA Competition 1](/assets/deca.png)
-![DECA Competition 2](/assets/deca-2.jpg)
+<p>
+  <img src="/assets/deca.png" alt="DECA Competition 1" width="120"/>
+  <img src="/assets/deca-2.jpg" alt="DECA Competition 2" width="120"/>
+</p>
+
+📫 [arjan.suri@my.utexas.edu](mailto:arjan.suri@my.utexas.edu) • 🌐 [arjansuri.com](https://arjansuri.com) • 💼 [LinkedIn](https://linkedin.com/in/arjansuri)
+
 
 
 📫 [arjan.suri@my.utexas.edu](mailto:arjan.suri@my.utexas.edu) • 🌐 [arjansuri.com](https://arjansuri.com) • 💼 [LinkedIn](https://linkedin.com/in/arjansuri)
+`
