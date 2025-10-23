@@ -13,7 +13,7 @@
 
 - Debugged catalog errors on column constraints; modified C++ schema validation and wrote SQL logic regression tests
 - Collaborated with core maintainers—merged PRs and improved constraint handling in catalog, parser, and planner
-- [https://github.com/duckdb/duckdb
+- [https://github.com/duckdb/duckdb]
 
 ### **Research Analyst at University of Texas at Austin**
 **Apr 2025 - Present**
