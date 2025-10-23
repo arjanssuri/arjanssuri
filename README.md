@@ -16,12 +16,6 @@
 ## Work Experience
 ## 2025
 
-**DuckDB | Open Source Contributor**  
-*Oct. 2025 – Present*  
-<a href="https://github.com/duckdb/duckdb">
-  <img src="/assets/duckdb.svg" alt="DuckDB Logo" height="100"/>
-</a>
-
 **Research Analyst at University of Texas at Austin**  
 *Apr 2025 – Present*
 
