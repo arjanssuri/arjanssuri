@@ -14,78 +14,78 @@
 </p>
 
 ## Work Experience
-### **Research Analyst at University of Texas at Austin**
-**Apr 2025 - Present**
+## 2025
 
-- Worked with Dr. Justin Hart in Autonomous Robots Lab, focusing on reinforcement learning and computer vision algorithms
-- Developing AI/ML models to improve human-robot interaction, scene understanding, and decision-making
+**DuckDB | Open Source Contributor**  
+*Oct. 2025 – Present*  
+[![DuckDB Logo](/assets/duckdb.svg)](https://github.com/duckdb/duckdb)
 
-### **Aerodynamics Engineer at Longhorn Racing (Formula SAE)**
-**Sept. 2025 - Present**
+**Research Analyst at University of Texas at Austin**  
+*Apr 2025 – Present*
 
-- Designing and optimizing aerodynamic components for UT Austin's Formula SAE race car
-- Using CFD analysis and wind tunnel testing to improve downforce and reduce drag
+**Aerodynamics Engineer at Longhorn Racing (Formula SAE)**  
+*Sept. 2025 – Present*  
+![Longhorn Racing Car](/assets/lhr_aero_car.png)
+![Longhorn Racing Aero Shell](/assets/lhr_aero_shell.png)
 
-### **Member at Texas Blockchain**
-**Sept. 2025 - Present**
+**Member at Texas Blockchain**  
+*Sept. 2025 – Present*
 
-- Collaborating on blockchain development projects and exploring decentralized technologies
-- Participating in hackathons and building Web3 applications
+**Palantir @ UT Hackathon Project**  
+*Sept. 2025*  
+[Watch project video](https://www.loom.com/embed/3f7c6a7f54494bf59201831ee79d16d9?sid=6cce3a02-58aa-4258-b719-3951c6ca1e03)
 
-### **Palantir @ UT Hackathon Project**
-**Sept. 2025**
-
-- Developed innovative solution at university hackathon sponsored by Palantir
-
-### **Research Analyst at UT Southwestern Medical Center**
-**Apr. 2025 - Aug. 2025**
-
-- Deploying Zero-Shot Multimodal OSCE exam scorer with LLMs for audio + video inputs
+**Research Analyst at UT Southwestern Medical Center**  
+*Apr. 2025 – Aug. 2025*  
+[Watch OSCE demo](https://www.loom.com/embed/11cfee581f824655bce0321c58b7b455?sid=20dd1344-c9f4-41ba-a5f4-e4eea372c5a7)
 
 ---
 
 ## 2024
 
-### **Research Associate at Texas Christian University**
+**Research Associate at Texas Christian University**  
+[![RSV Research Closeup](/assets/rsv-closeup.png)](https://www.mdpi.com/2673-3986/6/2/16)
+[![Research Publication](/assets/research-publication.png)](https://www.mdpi.com/2673-3986/6/2/16)
 
-- Developing ODE models to analyze viral load data
-- Publication: "Analyzing Dynamical Differences Between Vaccinated and Unvaccinated RSV Patients"
-- [https://www.mdpi.com/2673-3986/6/2/16]
+**Private Equity Intern at Newshore Partners**
 
-### **Private Equity Intern at Newshore Partners**
+**Director of Operations at Fidutam**
 
-- Led 2 closed investments deal, conducting DCF, LBO, and comparables analysis
+**Strategic Solutions Intern at Onix**
 
-### **Director of Operations at Fidutam**
-
-- United Nations ECOSOC Youth Forum Invitee
-- MIT Solve Finalist
-
-### **Strategic Solutions Intern at Onix**
-
-- Enhanced AI security protocols by deploying data-driven solutions, improving anomaly detection accuracy by 15%
-- Engineered and delivered scalable software solutions and interactive demos using Python and TensorFlow
-- Led the migration of 50+ Cloudera Jupyter Notebooks to Google Vertex AI, optimizing deployment pipelines
-
-### **Quantitative Analyst Intern at hScore**
-**Jan 2024 – May 2024 | Dallas, TX**
-
-- Engineered retail trading software managing $20M+ AUM using Python; feature reached 2% alpha over S&P
-- Achieved 95% accuracy in sentiment analysis of 500+ earnings transcripts using TextBlob, NLTK, and BERT
-- Pitched natural language processing pipeline with trading algorithms for sentiment analysis to CEO, CTO on board meeting
+**Quantitative Analyst Intern at hScore**  
+![NXG Investment Management](/assets/nxg.png)
 
 ---
 
 ## 2023
 
-### **Research Analyst at UT Dallas**
+**Research Analyst at UT Dallas**
 
-- Led sentiment analysis project on stock news and online forums
+**Investment Analyst Intern at NXG Investment Management**  
+![NXG Investment Management](/assets/nxg.png)
 
-### **Investment Analyst Intern at NXG Investment Management**
-
-- Collaborated on investment strategies for clients in the Electric Vehicle industry
+**President and Founder of Enrichify**  
+[![Enrichify Southlake Style Article](/assets/enrichify-article.PNG)](https://www.southlakestyle.com/community/people/dragons-start-financial-nonprofit/)
+[![Canvas Rebel Article](/assets/canvas-rebel-article-enrichify.png)](https://canvasrebel.com/meet-anson-omar-arjan-suri-and-ayan-bakshi/)
 
 ---
+
+## Education
+
+**The University of Texas at Austin**  
+B.Sc. in Computer Science & B.Sc. in Applied Math
+
+**Carroll High School**  
+GPA 105.0/100 | Rank 27/721
+
+**Finance Club – President**  
+![Finance Club Event 1](/assets/finance-club-1.jpeg)
+![Finance Club Event 2](/assets/finance-club-2.jpeg)
+
+**DECA – VP of Finance Ops**  
+![DECA Competition 1](/assets/deca.png)
+![DECA Competition 2](/assets/deca-2.jpg)
+
 
 📫 [arjan.suri@my.utexas.edu](mailto:arjan.suri@my.utexas.edu) • 🌐 [arjansuri.com](https://arjansuri.com) • 💼 [LinkedIn](https://linkedin.com/in/arjansuri)
