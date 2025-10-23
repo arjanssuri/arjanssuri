@@ -1,8 +1,17 @@
+<p align="center">
+  <img src="https://sites.utexas.edu/angs/files/2021/11/angs_header_banner.jpg" alt="UT Austin Banner" width="100%">
+</p>
+
 # Arjan Suri
 
 **1x Acq | ML & Robotics Research @ UT Austin**
 
 ---
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=arjanssuri&theme=maroongold&border_radius=20&short_numbers=true">
+  </a>
+</p>
 
 ## Work Experience
 ### **Research Analyst at University of Texas at Austin**
