@@ -1,7 +1,6 @@
 # Arjan Suri
 
-**Computer Science + Applied Mathematics @ UT Austin**  
-**Machine Learning Researcher • Software Engineer • Quantitative Analyst**
+**1x Acq | ML & Robotics Research @ UT Austin**
 
 ---
 
