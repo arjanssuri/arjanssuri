@@ -51,7 +51,7 @@
     <img src="/assets/rsv-closeup.png" alt="RSV Research Closeup" width="120"/>
   </a>
   <a href="https://www.mdpi.com/2673-3986/6/2/16">
-    <img src="/assets/analyzing-dynamical.png" alt="Research Publication" width="120"/>
+    <img src="/assets/analyzing_dynamical.png" alt="Research Publication" width="120"/>
   </a>
 </p>
 
