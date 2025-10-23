@@ -1,72 +1,92 @@
-<p align="center">
-  <img src="https://sites.utexas.edu/angs/files/2021/11/angs_header_banner.jpg" alt="UT Austin Banner" width="100%">
-</p>
+# Arjan Suri
 
-<h1 align="center">Hi, I'm Arjan! 👋</h1>
-
-<p align="center">
-  <strong>CS + Applied Math @ UT Austin • ML Researcher • FinTech Builder • Quantitative Analyst</strong><br>
-  Building for impact through machine learning, computational research, and AI-driven platforms.
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=arjanssuri&theme=maroongold&border_radius=20&short_numbers=true">
-  </a>
-</p>
+**Computer Science + Applied Mathematics @ UT Austin**  
+**Machine Learning Researcher • Software Engineer • Quantitative Analyst**
 
 ---
 
-### 💼 Roles (Current & Past)
+## Work Experience
 
-- Private Equity Intern @ **Newshore Partners**  
-- Equity Research Intern @ **Almondz**
-- Research Analyst @ **UT Southwestern Medical Center**
-- Research Associate @ **Texas Christian University**
-  
-- Prev. Research Analyst @ **UT Dallas** 
-- Prev. Director of Operations @ **Fidutam**
-- Prev. Strategic Solutions Intern @ **Onix**
-- Prev. President & Founder @ **Enrichify**
-- Prev. Investment Analyst Intern @ **NXG Investment Management**
-- Prev. Jr. Quantitative Analyst @ **hScore**
+### **DuckDB | Open Source Contributor**
+**Oct. 2025 - Present**  
+*C++, SQL, Database Internals, Git*
 
----
+- Debugged catalog errors on column constraints; modified C++ schema validation and wrote SQL logic regression tests
+- Collaborated with core maintainers—merged PRs and improved constraint handling in catalog, parser, and planner
+- [https://github.com/duckdb/duckdb
 
-### 🧰 Tools, Languages & Frameworks
+### **Research Analyst at University of Texas at Austin**
+**Apr 2025 - Present**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
+- Worked with Dr. Justin Hart in Autonomous Robots Lab, focusing on reinforcement learning and computer vision algorithms
+- Developing AI/ML models to improve human-robot interaction, scene understanding, and decision-making
+
+### **Aerodynamics Engineer at Longhorn Racing (Formula SAE)**
+**Sept. 2025 - Present**
+
+- Designing and optimizing aerodynamic components for UT Austin's Formula SAE race car
+- Using CFD analysis and wind tunnel testing to improve downforce and reduce drag
+
+### **Member at Texas Blockchain**
+**Sept. 2025 - Present**
+
+- Collaborating on blockchain development projects and exploring decentralized technologies
+- Participating in hackathons and building Web3 applications
+
+### **Palantir @ UT Hackathon Project**
+**Sept. 2025**
+
+- Developed innovative solution at university hackathon sponsored by Palantir
+
+### **Research Analyst at UT Southwestern Medical Center**
+**Apr. 2025 - Aug. 2025**
+
+- Deploying Zero-Shot Multimodal OSCE exam scorer with LLMs for audio + video inputs
 
 ---
 
-<p align="center">
-  📫 <a href="mailto:arjan.suri17@gmail.com">arjan.suri17@gmail.com</a> • 🌐 <a href="https://arjansuri.com">arjansuri.com</a> • 💼 <a href="https://linkedin.com/in/arjansuri">LinkedIn</a>
-</p>
+## 2024
+
+### **Research Associate at Texas Christian University**
+
+- Developing ODE models to analyze viral load data
+- Publication: "Analyzing Dynamical Differences Between Vaccinated and Unvaccinated RSV Patients"
+- [https://www.mdpi.com/2673-3986/6/2/16]
+
+### **Private Equity Intern at Newshore Partners**
+
+- Led 2 closed investments deal, conducting DCF, LBO, and comparables analysis
+
+### **Director of Operations at Fidutam**
+
+- United Nations ECOSOC Youth Forum Invitee
+- MIT Solve Finalist
+
+### **Strategic Solutions Intern at Onix**
+
+- Enhanced AI security protocols by deploying data-driven solutions, improving anomaly detection accuracy by 15%
+- Engineered and delivered scalable software solutions and interactive demos using Python and TensorFlow
+- Led the migration of 50+ Cloudera Jupyter Notebooks to Google Vertex AI, optimizing deployment pipelines
+
+### **Quantitative Analyst Intern at hScore**
+**Jan 2024 – May 2024 | Dallas, TX**
+
+- Engineered retail trading software managing $20M+ AUM using Python; feature reached 2% alpha over S&P
+- Achieved 95% accuracy in sentiment analysis of 500+ earnings transcripts using TextBlob, NLTK, and BERT
+- Pitched natural language processing pipeline with trading algorithms for sentiment analysis to CEO, CTO on board meeting
+
+---
+
+## 2023
+
+### **Research Analyst at UT Dallas**
+
+- Led sentiment analysis project on stock news and online forums
+
+### **Investment Analyst Intern at NXG Investment Management**
+
+- Collaborated on investment strategies for clients in the Electric Vehicle industry
+
+---
+
+📫 [arjan.suri@my.utexas.edu](mailto:arjan.suri@my.utexas.edu) • 🌐 [arjansuri.com](https://arjansuri.com) • 💼 [LinkedIn](https://linkedin.com/in/arjansuri)
